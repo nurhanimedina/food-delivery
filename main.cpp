@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // INPUT
+
     double food_prices, quantity;
     double delivery_distance;
     string delivery_method;
