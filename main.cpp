@@ -10,8 +10,6 @@ int main() {
     double delivery_distance ;
     string delivery_method ;
     double voucher, service_fee ;
-    double rate_per_km = 2.0 ;     
-    double express_fee = 5.0 ;     
     double time_per_km = 3.0 ;    
 
     cout << "Enter food price: " ;
